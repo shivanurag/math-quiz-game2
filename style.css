@@ -1,0 +1,20 @@
+body
+{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkcyan;
+}
+
+#login
+{
+    font-size: 30px;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #020d71;
+padding: 10px;
+float: none;
+text-align: left;
+}
